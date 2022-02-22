@@ -1,0 +1,162 @@
+[
+    {
+        "name": "John Doe",
+        "money": "13,748,763",
+        "group": 0,
+        "counter": 139,
+        "active": true,
+        "starter": 1642804281,
+        "dividend": "13.74%",
+        "fees": 0.5,
+        "log": [],
+        "deductions": "-68,744",
+        "display": {
+            "timer": "00:02:19",
+            "money": "",
+            "deductions": "",
+            "fees": "",
+            "total": ""
+        },
+        "total": "13,680,019"
+    },
+    {
+        "name": "Jane Doe",
+        "money": "13,946,587",
+        "group": 0,
+        "counter": 141,
+        "active": true,
+        "starter": 1642804279,
+        "dividend": "13.94%",
+        "fees": 0.5,
+        "log": [],
+        "deductions": "-69,733",
+        "display": {
+            "timer": "00:02:21",
+            "money": "",
+            "deductions": "",
+            "fees": "",
+            "total": ""
+        },
+        "total": "13,876,854"
+    },
+    {
+        "name": "a",
+        "money": "12,265,084",
+        "group": 0,
+        "counter": 124,
+        "active": true,
+        "starter": 1642804296,
+        "dividend": "12.26%",
+        "fees": 0.5,
+        "log": [],
+        "deductions": "-61,326",
+        "display": {
+            "timer": "00:02:04",
+            "money": "",
+            "deductions": "",
+            "fees": "",
+            "total": ""
+        },
+        "total": "12,203,758"
+    },
+    {
+        "name": "b",
+        "money": "12,166,172",
+        "group": 0,
+        "counter": 123,
+        "active": true,
+        "starter": 1642804297,
+        "dividend": "12.16%",
+        "fees": 0.5,
+        "log": [],
+        "deductions": "-60,831",
+        "display": {
+            "timer": "00:02:03",
+            "money": "",
+            "deductions": "",
+            "fees": "",
+            "total": ""
+        },
+        "total": "12,105,341"
+    },
+    {
+        "name": "c",
+        "money": "12,067,260",
+        "group": 0,
+        "counter": 122,
+        "active": true,
+        "starter": 1642804298,
+        "dividend": "12.06%",
+        "fees": 0.5,
+        "log": [],
+        "deductions": "-60,337",
+        "display": {
+            "timer": "00:02:02",
+            "money": "",
+            "deductions": "",
+            "fees": "",
+            "total": ""
+        },
+        "total": "12,006,923"
+    },
+    {
+        "name": "d",
+        "money": "11,968,348",
+        "group": 0,
+        "counter": 121,
+        "active": true,
+        "starter": 1642804299,
+        "dividend": "11.96%",
+        "fees": 0.5,
+        "log": [],
+        "deductions": "-59,842",
+        "display": {
+            "timer": "00:02:01",
+            "money": "",
+            "deductions": "",
+            "fees": "",
+            "total": ""
+        },
+        "total": "11,908,506"
+    },
+    {
+        "name": "e",
+        "money": "11,968,348",
+        "group": 0,
+        "counter": 121,
+        "active": true,
+        "starter": 1642804299,
+        "dividend": "11.96%",
+        "fees": 0.5,
+        "log": [],
+        "deductions": "-59,842",
+        "display": {
+            "timer": "00:02:01",
+            "money": "",
+            "deductions": "",
+            "fees": "",
+            "total": ""
+        },
+        "total": "11,908,506"
+    },
+    {
+        "name": "f",
+        "money": "11,869,436",
+        "group": 0,
+        "counter": 120,
+        "active": true,
+        "starter": 1642804300,
+        "dividend": "11.86%",
+        "fees": 0.5,
+        "log": [],
+        "deductions": "-59,348",
+        "display": {
+            "timer": "00:02:00",
+            "money": "",
+            "deductions": "",
+            "fees": "",
+            "total": ""
+        },
+        "total": "11,810,089"
+    }
+]
